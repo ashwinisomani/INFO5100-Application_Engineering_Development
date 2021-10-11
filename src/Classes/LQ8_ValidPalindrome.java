@@ -1,6 +1,6 @@
 package Classes;
 
-public class ValidPalindrome {
+public class LQ8_ValidPalindrome {
     public static void main(String[] args) {
         String s="A man, a plan, a canal: Panama";
         System.out.println("Output = "+isPalindrome(s));

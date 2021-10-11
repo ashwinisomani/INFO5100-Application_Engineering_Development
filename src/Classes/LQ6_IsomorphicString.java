@@ -1,6 +1,6 @@
 package Classes;
 
-public class IsomorphicString {
+public class LQ6_IsomorphicString {
     public static void main(String[] args) {
         String s1 ="egg";
         String s2 ="add";

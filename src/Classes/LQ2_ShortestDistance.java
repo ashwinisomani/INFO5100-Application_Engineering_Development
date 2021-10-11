@@ -1,6 +1,6 @@
 package Classes;
 
-public class ShortestDistance {
+public class LQ2_ShortestDistance {
     public static void main(String[] args) {
         String[] wordDict = {"practice", "makes", "perfect", "coding", "makes"};
         String word1 ="coding";

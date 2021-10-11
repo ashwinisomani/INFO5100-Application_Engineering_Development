@@ -1,6 +1,6 @@
 package Classes;
 
-public class AddStrings {
+public class LQ7_AddStrings {
     public static void main(String[] args) {
         String nums1 ="11";
         String nums2 ="123";

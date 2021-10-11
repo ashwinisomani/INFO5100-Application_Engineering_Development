@@ -1,6 +1,6 @@
 package Classes;
 
-public class MoveZeroes {
+public class LQ3_MoveZeroes {
     public static void main(String[] args) {
         int[] nums ={0,1,0,3,12};
         System.out.print("Input = ");

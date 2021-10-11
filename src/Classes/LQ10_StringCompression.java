@@ -1,6 +1,6 @@
 package Classes;
 
-public class StringCompression {
+public class LQ10_StringCompression {
     public static void main(String[] args) {
         char [] chars = {'a','a','b','b','c','c','c'};
         System.out.print("Input = ");

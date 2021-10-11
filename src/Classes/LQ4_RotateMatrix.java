@@ -2,7 +2,7 @@ package Classes;
 
 import java.util.Arrays;
 
-public class RotateMatrix {
+public class LQ4_RotateMatrix {
     public static void main(String[] args) {
         int[][] matrix = {{1,2,3},{4,5,6},{7,8,9}};
         System.out.println("Input = ");
