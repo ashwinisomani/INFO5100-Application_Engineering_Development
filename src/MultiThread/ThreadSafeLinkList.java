@@ -52,7 +52,6 @@ public class ThreadSafeLinkList<T> {
 
         ThreadSafeLinkList<T> list;
         T value;
-
         public Worker(ThreadSafeLinkList<T> list, T data) {
             this.list = list;
             this.value = data;
