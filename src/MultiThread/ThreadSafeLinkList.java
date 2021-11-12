@@ -49,7 +49,6 @@ public class ThreadSafeLinkList<T> {
     }
 
     static class Worker<T> implements Runnable {
-
         ThreadSafeLinkList<T> list;
         T value;
         public Worker(ThreadSafeLinkList<T> list, T data) {
